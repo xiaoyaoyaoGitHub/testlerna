@@ -1,6 +1,6 @@
 {
   "name": "@gymito/monitor-web",
-  "version": "0.0.4-alpha.0",
+  "version": "0.0.5-alpha.0",
   "description": "A SDK For Monitoring Web(React、Vue) Errors",
   "author": "gymito",
   "license": "MIT",
@@ -11,9 +11,9 @@
     "dist"
   ],
   "dependencies": {
-    "@gymito/monitor-browser": "^0.0.4-alpha.0",
-    "@gymito/monitor-vue": "^0.0.4-alpha.0",
-    "@gymito/monitor-web-performance": "^0.0.4-alpha.0"
+    "@gymito/monitor-browser": "^0.0.5-alpha.0",
+    "@gymito/monitor-vue": "^0.0.5-alpha.0",
+    "@gymito/monitor-web-performance": "^0.0.5-alpha.0"
   },
   "publishConfig": {
     "access": "public"

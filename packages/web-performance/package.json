@@ -1,0 +1,21 @@
+{
+  "name": "@gymito/monitor-web-performance",
+  "version": "0.0.4-alpha.0",
+  "description": "A SDK For Report Web Performance",
+  "author": "gymito",
+  "license": "MIT",
+  "main": "dist/web-performance.js",
+  "module": "dist/web-performance.esm.js",
+  "types": "dist/web-performance.d.ts",
+  "files": [
+    "dist"
+  ],
+  "dependencies": {
+    "core-js": "^3.19.1",
+    "path-to-regexp": "^6.2.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "0409841fec38aeb76f7f887c4625280d97801291"
+}

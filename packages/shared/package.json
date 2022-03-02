@@ -1,0 +1,17 @@
+{
+  "name": "@gymito/monitor-shared",
+  "version": "0.0.4-alpha.0",
+  "description": "@gymito/monitor-shared",
+  "author": "gymito",
+  "license": "MIT",
+  "main": "dist/shared.js",
+  "module": "dist/shared.esm.js",
+  "types": "dist/shared.d.ts",
+  "files": [
+    "dist"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "0409841fec38aeb76f7f887c4625280d97801291"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "@gymito/monitor-types",
+  "version": "0.0.4-alpha.0",
+  "description": "@gymito/monitor-types",
+  "author": "gymito",
+  "license": "MIT",
+  "main": "dist/types.js",
+  "module": "dist/types.esm.js",
+  "types": "dist/types.d.ts",
+  "files": [
+    "dist"
+  ],
+  "dependencies": {
+    "@gymito/monitor-browser": "^0.0.4-alpha.0",
+    "@gymito/monitor-core": "^0.0.4-alpha.0",
+    "@gymito/monitor-shared": "^0.0.4-alpha.0",
+    "@gymito/monitor-utils": "^0.0.4-alpha.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "0409841fec38aeb76f7f887c4625280d97801291"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "@gymito/monitor-wx-mini-performance",
+  "version": "0.0.4-alpha.0",
+  "description": "A SDK For Report Wx Mini Performance",
+  "main": "dist/wx-mini-performance.js",
+  "module": "dist/wx-mini-performance.js",
+  "types": "dist/wx-mini-performance.d.ts",
+  "files": [
+    "dist"
+  ],
+  "author": "zty <https://github.com/zty1205>",
+  "license": "ISC",
+  "dependencies": {
+    "@types/wechat-miniprogram": "^3.3.0"
+  },
+  "private": true,
+  "gitHead": "0409841fec38aeb76f7f887c4625280d97801291"
+}

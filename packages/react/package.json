@@ -1,0 +1,22 @@
+{
+  "name": "@gymito/monitor-react",
+  "version": "0.0.4-alpha.0",
+  "description": "A SDK For Report React ErrorBoundary",
+  "author": "gymito",
+  "license": "MIT",
+  "main": "dist/react.js",
+  "module": "dist/react.esm.js",
+  "types": "dist/react.d.ts",
+  "files": [
+    "dist"
+  ],
+  "dependencies": {
+    "@gymito/monitor-core": "^0.0.4-alpha.0",
+    "@gymito/monitor-shared": "^0.0.4-alpha.0",
+    "@gymito/monitor-utils": "^0.0.4-alpha.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "0409841fec38aeb76f7f887c4625280d97801291"
+}

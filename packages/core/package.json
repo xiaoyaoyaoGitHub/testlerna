@@ -1,0 +1,22 @@
+{
+  "name": "@gymito/monitor-core",
+  "version": "0.0.4-alpha.0",
+  "description": "@gymito/monitor-core",
+  "author": "gymito",
+  "license": "MIT",
+  "main": "dist/core.js",
+  "module": "dist/core.esm.js",
+  "types": "dist/core.d.ts",
+  "files": [
+    "dist"
+  ],
+  "dependencies": {
+    "@gymito/monitor-shared": "^0.0.4-alpha.0",
+    "@gymito/monitor-types": "^0.0.4-alpha.0",
+    "@gymito/monitor-utils": "^0.0.4-alpha.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "0409841fec38aeb76f7f887c4625280d97801291"
+}

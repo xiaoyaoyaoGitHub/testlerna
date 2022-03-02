@@ -1,0 +1,23 @@
+{
+  "name": "@gymito/monitor-vue",
+  "version": "0.0.4-alpha.0",
+  "description": "A SDK for monitoring Vue errors",
+  "author": "gymito",
+  "license": "MIT",
+  "main": "dist/vue.js",
+  "module": "dist/vue.esm.js",
+  "types": "dist/vue.d.ts",
+  "files": [
+    "dist"
+  ],
+  "dependencies": {
+    "@gymito/monitor-core": "^0.0.4-alpha.0",
+    "@gymito/monitor-shared": "^0.0.4-alpha.0",
+    "@gymito/monitor-types": "^0.0.4-alpha.0",
+    "@gymito/monitor-utils": "^0.0.4-alpha.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "0409841fec38aeb76f7f887c4625280d97801291"
+}
